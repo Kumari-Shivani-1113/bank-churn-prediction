@@ -122,11 +122,6 @@ Mean:   59.21% — high variance → Decision Tree unstable
 
 Applied the trained Random Forest model to **10 unknown customer records** (simulating real production scoring). The model correctly maintained the expected **~20% attrition ratio** (2 out of 10 customers predicted as attrited).
 
----
-
-## 📸 Results Preview
-
-![Notebook](screenshots/notebook_results.png)
 
 ---
 
